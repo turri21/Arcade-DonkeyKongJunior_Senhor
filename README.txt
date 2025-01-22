@@ -1,3 +1,7 @@
+-=(DonkeyKongJunior_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: Donkey Kong Junior port to MiSTer by gaz68 (https://github.com/gaz68)
